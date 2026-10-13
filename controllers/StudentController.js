@@ -21,10 +21,10 @@ app.controller("StudentController", [
     } else {
       $scope.students = [
         {
-          rollNo: "CSE-401",
-          name: "Elena Rostova",
+          rollNo: "CSE-3A5",
+          name: "Shreyash Koshta",
           branch: "Computer Science",
-          cgpa: 9.12,
+          cgpa: 8.6,
         },
         {
           rollNo: "DS-108",
@@ -34,7 +34,7 @@ app.controller("StudentController", [
         },
         {
           rollNo: "CY-204",
-          name: "Devon Lane",
+          name: "John Doe",
           branch: "Cyber Security",
           cgpa: 7.89,
         },
